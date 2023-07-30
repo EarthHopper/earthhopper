@@ -8,6 +8,7 @@ module.exports = {
   theme: {
     extend: {
       colors: {
+        darkgreen: "#122B1F",
         verdigris: "#56A3A6",
         sage: "#CAD49D",
         coyote: "#7E685A",

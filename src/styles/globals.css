@@ -1,8 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import '~rsuite/dist/rsuite-no-reset-rtl.min.css';
 
 :root {
     background: #3b7056;
     color: #fff;
+    font-size: 16px;
 }
