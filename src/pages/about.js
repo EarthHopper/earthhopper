@@ -5,7 +5,7 @@ const About = () => {
       <div className="text-lg">
         <p className="my-5">
           Introducing EarthHopper, your ultimate eco-conscious travel planner!
-          EarthHopper is not just another travel app; it's a transformative
+          EarthHopper is not just another travel app; it&apos;s a transformative
           journey towards sustainable exploration. With EarthHopper, we invite
           you to embark on unforgettable adventures while leaving a positive
           impact on the planet.
@@ -13,7 +13,7 @@ const About = () => {
         <p className="my-5">
           Plan your trips responsibly with our expertly curated itineraries that
           prioritize eco-friendly accommodations, ethical tour operators, and
-          community-driven experiences. We'll guide you to breathtaking
+          community-driven experiences. We&apos;ll guide you to breathtaking
           destinations, from lush rainforests to pristine beaches, all while
           ensuring you tread lightly on the Earth.
         </p>
@@ -31,8 +31,8 @@ const About = () => {
         <p className="my-5">
           Choose EarthHopper for unforgettable journeys that not only fill your
           soul with wonder but also protect the natural wonders we all cherish.
-          Together, let's create a world where every hop brings us closer to a
-          thriving, sustainable planet. Let's travel responsibly with
+          Together, let&apos;s create a world where every hop brings us closer to a
+          thriving, sustainable planet. Let&apos;s travel responsibly with
           EarthHopper - the earth-friendly way to wander.
         </p>{" "}
       </div>
